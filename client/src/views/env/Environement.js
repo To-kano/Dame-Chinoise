@@ -1,0 +1,7 @@
+const IP_SERVER = '88.165.45.219';
+
+exports.IP_SERVER = IP_SERVER;
+
+const PORT_SERVER = '3000';
+
+exports.PORT_SERVER = PORT_SERVER;
